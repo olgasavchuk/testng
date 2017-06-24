@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Tests In Different Browsers" parallel="methods" thread-count="3">
+<parameter name="host" value="http://0.0.0.0" />
+<parameter name="port" value="4545" />
+<parameter name="url" value="http://ct1.qa4.complytrack.com"/>
+<parameter name="browser" value="chrome" />
+<parameter name="platform" value="windows" />
+
+<test name="SmokeTests">
+    <classes>
+        <class name="SmokeTests.LoginTest" />
+    </classes>
+</test>
+
+</suite>
