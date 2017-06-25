@@ -8,7 +8,7 @@
 
     <test name="SmokeTests">
         <classes>
-            <class name="SmokeTests.LoginTest" />
+            <class name="test.java.SmokeTests.LoginTest" />
         </classes>
     </test>
 

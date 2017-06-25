@@ -38,6 +38,7 @@ public class TestSetUp {
         while(true) {
             try {
                 driver.set(new RemoteWebDriver(new URL(url), cap));
+                System.out.println(browser + " is started");
                 break;
             } catch(Exception e) {
                 attempts--;

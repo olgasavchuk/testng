@@ -8,7 +8,7 @@
         <parameter name="browser" value="chrome" />
         <parameter name="platform" value="windows" />
         <classes>
-            <class name="SmokeTests.LoginTest" />
+            <class name="test.java.SmokeTests.LoginTest" />
         </classes>
     </test>
 
@@ -16,7 +16,7 @@
         <parameter name="browser" value="firefox" />
         <parameter name="platform" value="windows" />
         <classes>
-            <class name="SmokeTests.LoginTest" />
+            <class name="test.java.SmokeTests.LoginTest" />
         </classes>
     </test>
 </suite>
