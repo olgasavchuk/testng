@@ -1,4 +1,4 @@
-package TestSetUps;
+package test.java.SetUp;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
@@ -53,6 +53,7 @@ public class TestSetUp {
 
     @AfterMethod
     public void setupAfterMethod(){
-        getDriver().quit(); //TODO while running in parallel closes only the first instance
+        getDriver().quit();
     }
 }
+

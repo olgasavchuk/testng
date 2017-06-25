@@ -1,13 +1,7 @@
-package SmokeTests;
+package test.java.SmokeTests;
 
-import TestSetUps.TestSetUp;
-import org.openqa.selenium.Platform;
-import org.openqa.selenium.remote.DesiredCapabilities;
-import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.*;
-
-import java.net.MalformedURLException;
-import java.net.URL;
+import test.java.SetUp.TestSetUp;
 
 public class LoginTest  extends TestSetUp {
 

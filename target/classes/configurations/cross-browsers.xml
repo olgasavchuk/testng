@@ -19,5 +19,4 @@
             <class name="SmokeTests.LoginTest" />
         </classes>
     </test>
-
 </suite>
