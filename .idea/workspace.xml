@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a4408a1-8477-4a55-9447-be8c15124f70" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/SetUp/TestSetUp.java" afterPath="$PROJECT_DIR$/src/test/java/SetUp/TestSetUp.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/configurations/cross-browsers.xml" afterPath="$PROJECT_DIR$/src/main/resources/configurations/cross-browsers.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/configurations/tests-in-parallel.xml" afterPath="$PROJECT_DIR$/src/main/resources/configurations/tests-in-parallel.xml" />
     </list>
     <ignored path="no-selenide.iws" />
@@ -47,20 +45,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tests-in-parallel.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="tests-in-parallel.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/configurations/tests-in-parallel.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.15923567">
+              <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestSetUp.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestSetUp.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/SetUp/TestSetUp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.39490446">
+            <state vertical-scroll-proportion="0.0">
               <caret line="40" column="47" selection-start-line="40" selection-start-column="47" selection-end-line="40" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -127,8 +125,8 @@
         <option value="$PROJECT_DIR$/src/test/java/SmokeTests/LoginTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/configurations/cross-browsers.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources/configurations/tests-in-parallel.xml" />
         <option value="$PROJECT_DIR$/src/test/java/SetUp/TestSetUp.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/configurations/tests-in-parallel.xml" />
       </list>
     </option>
   </component>
@@ -972,14 +970,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/configurations/tests-in-parallel.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/selenium-grid/selenium-server.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1000,11 +990,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SetUp/TestSetUp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39490446">
+        <state vertical-scroll-proportion="0.0">
           <caret line="40" column="47" selection-start-line="40" selection-start-column="47" selection-end-line="40" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/configurations/tests-in-parallel.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15923567">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+          <folding />
         </state>
       </provider>
     </entry>
