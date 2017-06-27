@@ -3,12 +3,12 @@
     <parameter name="host" value="http://0.0.0.0" />
     <parameter name="port" value="4545" />
     <parameter name="url" value="http://ct1.qa4.complytrack.com"/>
-    <parameter name="browser" value="chrome" />
+    <parameter name="browser" value="firefox" />
     <parameter name="platform" value="windows" />
 
     <test name="SmokeTests">
         <classes>
-            <class name="SmokeTests.LoginTest" />
+            <class name="test.java.SmokeTests.LoginTest" />
         </classes>
     </test>
 

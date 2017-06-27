@@ -3,7 +3,7 @@ package test.java.SmokeTests;
 import org.testng.annotations.*;
 import test.java.SetUp.TestSetUp;
 
-public class LoginTest  extends TestSetUp {
+public class LoginTest extends TestSetUp {
 
     @Parameters({ "url" })
     @Test(groups = {"smokeTest" , "login"})
